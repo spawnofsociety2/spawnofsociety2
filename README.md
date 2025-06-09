@@ -179,7 +179,7 @@ fun_fact: I debug with console.log() and I'm not ashamed!
 
 <div align="center">
 
-[![Spotify]([https://novatorem-kyzbk7wxl-bardiesel.vercel.app](https://spotify-nowplaying-two.vercel.app/)/api/spotify)](https://open.spotify.com/user/spawnofsociety)
+[![Spotify](https://spotify-nowplaying-git-main-spawnofsociety2s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/spawnofsociety)
 
 </div>
 
