@@ -29,7 +29,7 @@
 const developer = {
     name: "Robert Seltzer",
     location: "WV, United States",
-    code: ["JavaScript", "Python", "TypeScript", "Java", "C++"],
+    code: ["JavaScript", "Python", "TypeScript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         frontEnd: {
