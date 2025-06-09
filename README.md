@@ -7,7 +7,7 @@
 ### 🚀 Passionate Developer | 💡 Problem Solver | 🌟 Innovation Seeker
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/spawnofsociety2">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
