@@ -7,7 +7,7 @@
 ### 🚀 Passionate Developer | 💡 Problem Solver | 🌟 Innovation Seeker
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/spawnofsociety2">
     <img src="https://img.shields.io/github/followers/spawnofsociety2?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <a href="https://linkedin.com/in/rseltzer">
@@ -27,8 +27,8 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
+    name: "Robert Seltzer",
+    location: "WV, United States",
     code: ["JavaScript", "Python", "TypeScript", "Java", "C++"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
