@@ -202,9 +202,9 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 <div align="center">
 
-### ⭐ From [yourusername](https://github.com/yourusername)
+### ⭐ From [SpawnofSociety2](https://github.com/spawnofsociety2)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SpawnofSociety2.spawnofsociety2)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.spawnofsociety2)
 
 </div>
 
