@@ -1,19 +1,19 @@
 <div align="center">
   
-# 👋 Hello World! I'm Robert Seltzer
+# 👋 Hello World! I'm [Your Name]
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 ### 🚀 Passionate Developer | 💡 Problem Solver | 🌟 Innovation Seeker
 
 <p align="center">
-  <a href="https://github.com/spawnofsociety2">
-    <img src="https://img.shields.io/github/followers/spawnofsociety2?label=Follow&style=social" alt="GitHub followers" />
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://linkedin.com/in/rseltzer">
+  <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:robert.seltzer@gmail.com">
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://yourwebsite.com">
@@ -31,36 +31,25 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 Quick Info
+### 👨‍💻 Personal Info
 ```yaml
 name: Robert Seltzer
 location: WV, United States
-current_focus: Building something amazing
-learning: Always exploring new technologies
-hobbies: [photography, coding, tech exploration]
-fun_fact: I debug with console.log() and I'm not ashamed!
+role: Full Stack Developer
+experience: Building web applications
+passion: Creating innovative solutions
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 I Work With
-```typescript
-type TechStack = {
-  languages: string[];
-  frontend: string[];
-  backend: string[];
-  databases: string[];
-  tools: string[];
-}
-
-const myStack: TechStack = {
-  languages: ["JavaScript", "Python", "TypeScript", "Java"],
-  frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "Django", "FastAPI"],
-  databases: ["MongoDB", "PostgreSQL", "MySQL"],
-  tools: ["Git", "VS Code", "Docker", "AWS"]
-}
+### 🎯 Current Focus
+```yaml
+learning: Always exploring new technologies
+working_on: Building something amazing
+interests: [photography, coding, tech exploration]
+philosophy: Clean code, great UX
+fun_fact: I debug with console.log() and I'm not ashamed!
 ```
 
 </td>
@@ -104,6 +93,7 @@ const myStack: TechStack = {
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -189,7 +179,7 @@ const myStack: TechStack = {
 
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/spawnofsociety)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 </div>
 
@@ -214,7 +204,7 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 ### ⭐ From [yourusername](https://github.com/yourusername)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.spawnofsociety2)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 </div>
 
