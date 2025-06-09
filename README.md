@@ -25,29 +25,66 @@
 
 ## 🎯 About Me
 
-```javascript
-const developer = {
-    name: "Robert Seltzer",
-    location: "WV, United States",
-    code: ["JavaScript", "Python", "TypeScript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL"]
-        },
-        devOps: ["AWS", "Docker", "Nginx"],
-        tools: ["Git", "GitHub", "VS Code", "Figma"]
-    },
-    currentFocus: "Building something amazing",
-    funFact: "I debug with console.log() and I'm not ashamed!"
-};
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Quick Info
+```yaml
+name: Robert Seltzer
+location: WV, United States
+current_focus: Building something amazing
+learning: Always exploring new technologies
+hobbies: [photography, coding, tech exploration]
+fun_fact: I debug with console.log() and I'm not ashamed!
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 I Work With
+```typescript
+type TechStack = {
+  languages: string[];
+  frontend: string[];
+  backend: string[];
+  databases: string[];
+  tools: string[];
+}
+
+const myStack: TechStack = {
+  languages: ["JavaScript", "Python", "TypeScript", "Java"],
+  frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Django", "FastAPI"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL"],
+  tools: ["Git", "VS Code", "Docker", "AWS"]
+}
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 💡 What I'm About
+
+<img src="https://img.shields.io/badge/-🌟_Innovation-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-🎯_Problem_Solving-4ECDC4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-📚_Continuous_Learning-45B7D1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-🤝_Collaboration-96CEB4?style=for-the-badge&logoColor=white" />
+
+</div>
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
 
 ---
 
